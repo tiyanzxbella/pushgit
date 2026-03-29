@@ -1,1 +1,1 @@
-# pushgit
+echo "# pushgit" >> README.md
